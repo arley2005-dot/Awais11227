@@ -16,8 +16,7 @@
 
 ---
 
----
-> *"Data is the new oil, but intelligence is the refinery."*  
+> **"Data is the new oil, but intelligence is the refinery."**__
 
 ---
 
@@ -65,27 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=default&hide_border=true&title_color=1E90FF&text_color=0f172a" width="50%" />
 </div>
 
-
 ---
 
-## 💼 Experience
-
-### 📌 Data Analytics Intern — *Elevvo Pathways*  
-*Cairo, Egypt · Remote · Aug 2025 – Present*  
-- Applied **EDA techniques** on real-world datasets (Titanic dataset).  
-- Worked with **Python (Pandas, Matplotlib, Seaborn) and SQL** for data cleaning & visualization.  
-- Built dashboards, reports, and presentations to communicate findings effectively.  
-- Strengthened **problem-solving skills** through self-paced projects & mentorship.  
-
----
-
-### 📌 Python Programming Intern — *Code Sentinel*  
-*Remote · Aug 2025 (1 month)*  
-- Completed a **4-week internship** focused on Python programming.  
-- Gained experience in **problem-solving, debugging, and best practices** in software development.  
-- Worked on **real-world projects** involving **GUI development (Tkinter/PyQt)**.  
-
----
 
 ## 📈 Contributions & Growth  
 
@@ -93,32 +73,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true&hide_border=true&radius=15" width="100%"/>
 </div>
 
----
-
-## 🌟 My World Beyond Analytics  
-
-<div align="center" style="margin: 30px 0;">
-  <table style="border: none;">
-    <tr>
-      <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="80" height="80"><br>
-        <b style="color: #1E90FF;">Cricket Enthusiast 🎯</b>
-      </td>
-      <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"><br>
-        <b style="color: #4682B4;">Analytical Thinking 🧠</b>
-      </td>
-      <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80" height="80"><br>
-        <b style="color: #3B82F6;">Data Analytics 📈</b>
-      </td>
-      <td align="center" width="200" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" height="80"><br>
-        <b style="color: #00BFFF;">Growth 🌱</b>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -138,17 +92,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20the%20new%20oil,%20but%20intelligence%20is%20the%20refinery.&author=Awais%20Manzoor" style="border-radius: 10px;"/> 
 </div> 
 
----
-
-## 🚀 Explore My Projects  
-
-<div align="center">
-  <a href="https://github.com/Awais11227?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_View_All_Projects-1E90FF?style=for-the-badge&logoColor=white&labelColor=0f172a" height="50" style="border-radius: 25px;"/>
-  </a>
-</div>
-<b style="font-size: 18px; color: #1E90FF;">⭐ Star my repositories if you find them helpful!</b><br>
-<em style="color: #3B82F6;">Let's connect and create something impactful together! 💙</em>
 
 ---
 
