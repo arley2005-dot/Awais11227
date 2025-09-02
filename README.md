@@ -1,17 +1,20 @@
-# 👋 Hi, I'm Awais Manzoor  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Awais Manzoor</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | Python Developer | Problem Solver</h3>
 
-**`Data Analyst | Python Developer | SQL Enthusiast`**  
-
-🚀 Passionate about turning raw data into meaningful insights. Skilled in **Python, SQL, Excel, and Data Visualization** with hands-on experience in analytics projects, internships, and certifications.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Data+Analytics+%7C+Python+Programming;SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;Turning+Data+into+Actionable+Insights" />
+</p>
 
 ---
 
-## 🌟 About Me  
+## 🔹 About Me
+- 🎓 BS in Business Data Analytics  **COMSATS Univerisity Islamabad, Pakistan**  
+- 💻 Skilled in **Python, SQL, Power BI, Tableau, Statistical Analysis, Excel, Oracle**  
+- 📊 Passionate about **data analytics, visualization, and insights**  
+- 🌍 Open to **remote internships, collaborations, and projects**  
 
-- 🎓 BS in **Business Data Analytics** (COMSATS, Univerisity Islamabad, Pakistan)  
-- 💻 Interested in **Data Analysis, Visualization, and Business Intelligence**  
-- 🌍 Open to **remote work opportunities** and collaborations  
-- ✨ Always learning and improving through projects and internships  
+---
 
 ---
 > *"Data is the new oil, but intelligence is the refinery."*  
@@ -62,48 +65,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=default&hide_border=true&title_color=1E90FF&text_color=0f172a" width="50%" />
 </div>
 
----
-
-## 💼 Experience  
-
-### 🚀 Elevvo Pathways · *Data Analytics Intern*  
-📍 Cairo, Egypt · Remote | **Aug 2025 – Present**  
-
-<img src="https://media.licdn.com/dms/image/v2/D560BAQGHArQKgHID5A/company-logo_200_200/company-logo_200_200/0/1709029950259/elevo_pathways_logo?e=2147483647&v=beta&t=ThEN4Xw6wqY67LMtVDsmJq2JSgeYz0WRdmmxzt8sWJQ" width="50" />  
-
-- Applied **EDA techniques** on real-world datasets (e.g., Titanic).  
-- Hands-on with **Python (Pandas, Matplotlib, Seaborn)** and **SQL**.  
-- Built **dashboards, reports, and presentations** for insights.  
-- Strengthened **problem-solving skills** through mentorship and projects.  
 
 ---
 
-### 🐍 Code Sentinel · *Python Programming Intern*  
-📍 Remote | **Aug 2025 – Aug 2025**  
+## 💼 Experience
 
-<img src="https://media.licdn.com/dms/image/v2/D560BAQHavbDABG0oAg/company-logo_200_200/company-logo_200_200/0/1701224597872/codesentinel_logo?e=2147483647&v=beta&t=YwJg3hKqODccHuVuufhjOZcs0be1n3Izt0gUuoycDwk" width="50" />  
+### 📌 Data Analytics Intern — *Elevvo Pathways*  
+*Cairo, Egypt · Remote · Aug 2025 – Present*  
+- Applied **EDA techniques** on real-world datasets (Titanic dataset).  
+- Worked with **Python (Pandas, Matplotlib, Seaborn) and SQL** for data cleaning & visualization.  
+- Built dashboards, reports, and presentations to communicate findings effectively.  
+- Strengthened **problem-solving skills** through self-paced projects & mentorship.  
 
+---
+
+### 📌 Python Programming Intern — *Code Sentinel*  
+*Remote · Aug 2025 (1 month)*  
 - Completed a **4-week internship** focused on Python programming.  
-- Worked on **practical coding challenges and real-world projects**.  
-- Improved **problem-solving, debugging, and software best practices**.  
-- Explored **GUI development (Tkinter/PyQt)**.  
+- Gained experience in **problem-solving, debugging, and best practices** in software development.  
+- Worked on **real-world projects** involving **GUI development (Tkinter/PyQt)**.  
 
----
-
-## 🎓 Certifications  
-
-<div align="left">
-
-- ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white) Python for Data Science & Analytics – IBM  
-- ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) SQL (Intermediate) – HackerRank  
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white) Excel for Data Analysis – Coursera  
-- ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white) Data Visualization with Python – freeCodeCamp  
-- ![Great Learning](https://img.shields.io/badge/GreatLearning-0A66C2?style=flat&logo=google-classroom&logoColor=white) Power BI for Beginners – Great Learning  
-- ![SoloLearn](https://img.shields.io/badge/SoloLearn-3ECF8E?style=flat&logo=sololearn&logoColor=white) Python Fundamentals – SoloLearn  
-- ![Forage](https://img.shields.io/badge/Forage-4285F4?style=flat&logo=google&logoColor=white) Data Analytics Virtual Internship – Forage  
-
-</div>  
-*(Verified certificates available on [LinkedIn](https://www.linkedin.com/in/awaismanzoor11227/))*  
 ---
 
 ## 📈 Contributions & Growth  
